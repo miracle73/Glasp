@@ -1,4 +1,4 @@
-# Glasp: The Social Bookmarking App You Need to Know About
+# Glasp: The Web Highlighting Tool You Need to Know About
 
 ## Table of Content
 * Introduction: What is Glasp?
